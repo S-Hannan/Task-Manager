@@ -1,0 +1,118 @@
+* {
+    margin: 0px;
+
+}
+
+.head {
+    text-align: center;
+    /* background-color: blue; */
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.main {
+    /* background-color: red; */
+    /* display: flex; */
+    /* justify-content: center; */
+    margin-left: 400px;
+    height: 300px;
+
+}
+
+.upper {
+    /* background-color: saddlebrown; */
+    height: 120px;
+}
+
+.titlediv {
+    /* background-color: violet; */
+    height: 30px;
+}
+
+.title {
+    font-size: 20px;
+    /* background-color: saddlebrown; */
+
+}
+
+.titletext {
+    width: 85%;
+    height: 40px;
+/* background-color: blue; */
+}
+
+
+
+.para {
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgb(68, 68, 68);
+}
+
+.description {
+    font-size: 20px;
+
+
+}
+
+.descriptiondiv {
+
+    /* background-color: khaki; */
+    height: 30px;
+}
+
+.lower {
+    /* background-color: red; */
+    height: 200px;
+}
+
+.check {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.middle {
+    /* background-color: yellow; */
+    height: 50px;
+}
+
+.btn {
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 150px;
+    height: 50px;
+}
+
+.your {
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.table {
+    /* background-color: blue; */
+    width: 63vw;
+    font-size: 20px;
+}
+.delete{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    width: 100px;
+
+}
+
+.delete:hover{
+    color: black;
+    transition-property: color;
+    transition-timing-function: ease-in;
+    transition-duration: 0.15s;
+
+}
